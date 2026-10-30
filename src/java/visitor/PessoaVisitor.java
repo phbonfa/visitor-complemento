@@ -1,6 +1,6 @@
-package main;
+package visitor;
 
-public class PessoaVisitorJSON implements Visitor {
+public class PessoaVisitor implements Visitor {
 
     public String exibir(Pessoa pessoa) {
         return pessoa.aceitar(this);

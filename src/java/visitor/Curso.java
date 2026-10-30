@@ -1,4 +1,4 @@
-package main;
+package visitor;
 
 public class Curso {
 
