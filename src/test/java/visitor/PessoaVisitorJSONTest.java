@@ -1,7 +1,9 @@
-package test;
+package visitor;
 
+import org.junit.jupiter.api.Test;
 
-import main.Aluno;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 
 class PessoaVisitorJSONTest {
 
